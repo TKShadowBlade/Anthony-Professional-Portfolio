@@ -13,6 +13,12 @@ export default function Profile() {
                             <i className='fa fa-linkedin-square'></i>
                         </a>
                     </div>
+                
+                <div classname="profile-details-name">
+                    <span className="primary-text">
+                        Hello, I'm <span className="highlighted-text">Anthony</span>
+                    </span>
+                </div>
                 </div>
             </div>
         </div>
